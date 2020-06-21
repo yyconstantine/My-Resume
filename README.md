@@ -1,6 +1,9 @@
-<center><font size=5><strong>宋祥龙</strong></font></center>
-<center>157-3518-6499 | yyconstantine@gmail.com | 北京</center>
-<center>个人博客：https://yyconstantine.github.io</center>
+<center><font size=5><strong>宋祥龙</strong></font></center><br/>
+
+<center>157-3518-6499 | yyconstantine@gmail.com | 北京</center><br/>
+
+<center>个人博客：https://yyconstantine.github.io</center><br/>
+
 <center>求职意向：Java开发 | 工作年限：2年</center>
 
 #### **<font color=#0099ff size=3>教育经历</font>**
