@@ -1,6 +1,6 @@
-<center><font size=5><strong>宋祥龙</strong></font></center><br/>
+<center><font size=5><strong>宋xx</strong></font></center><br/>
 
-<center>157-3518-6499 | yyconstantine@gmail.com | 北京</center><br/>
+<center>yyconstantine@gmail.com | 北京</center><br/>
 
 <center>个人博客：https://yyconstantine.github.io</center><br/>
 
@@ -22,7 +22,7 @@
 
 #### **<font color=#0099ff size=3>工作经验</font>**
 ---
-> 2019.05&nbsp;-&nbsp;至今&nbsp;|北京和融通支付有限公司（100-499人）|&nbsp;Java开发工程师
+> 2019.05&nbsp;-&nbsp;至今&nbsp;|北京xx有限公司（100-499人）|&nbsp;Java开发工程师
 ```
 项目名称：和卡生活
 开发环境：idea + SVN + Oracle11g2 + JDK8
@@ -87,4 +87,4 @@
 
 - 自我驱动，兴趣驱动，纯自学入行，非培训，看过网课不算：）
 - 开发经验不多，但自我评价成长较快，愿意以热情的态度吸收、学习新知识，拥抱开源，愿意实践更加合理有效的规范
-- 拥簇合理的研发流程，TDD开发实践者，会在业余主动进行代码重构、优化，有代码洁癖
+- 拥簇合理的研发流程，会在业余主动进行代码重构、优化，有代码洁癖
